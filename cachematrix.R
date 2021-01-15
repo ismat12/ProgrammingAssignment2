@@ -1,7 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function. Setting the matrix & defining the matrix.
+## Write a short comment describing this function. 
+##Setting the matrix & defining the matrix.
 makeCacheMatrix <- function(x = matrix()) {
   i <- NULL
   set <- function(y) {
